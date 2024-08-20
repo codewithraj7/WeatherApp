@@ -2,6 +2,7 @@
 # WeatherApp
 <img align="right" src="previews/preview_1.gif" width="33%"/>
 Android Weather app developed in Kotlin. 
+
 Displays current weather conditions with temperature, describtion and forecast information.
 It also allows to search the weather by a city name. 
 
